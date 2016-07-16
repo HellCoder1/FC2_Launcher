@@ -1,0 +1,132 @@
+LOCALE_NAME = Русский
+LOCALE_LOADED = Файл русского языка загружен!
+
+# Main Tab
+EDIT_BUTTON = Изменить
+LAUNCH_BUTTON = Играть
+HI_TEXT = Добро пожаловать, 
+
+# Options pane
+INSTALL_FOLDER = Папка установки...
+FORCE_UPDATE = Принудительное обновление?
+RAM_MAX = RAM Max (MB)
+LANGUAGE = Язык
+SHOW_CONSOLE = Показывать консоль
+REOPEN_LAUNCHER = Лаунчер всегда открытый.
+INSTALL_FIRSTUSE = Первый запуск лаунчера FriendsCraft2, выбирите путь установки данных..
+DOWNLOAD_JAVA64 = Загрузите Java 64-bit
+DOWNLOAD_JAVA32 = Загрузите Java 32-bit
+DOWNLOAD_JAVAGOOD = Скачайте рекомендуемую версию Java
+JAVA_OLD_Warning = Старая версия Java. Обновите!
+JAVA_NEW_Warning = Java 8 не поддерживается. (Minecraft does not support java 8 on Mac.)
+JAVA_32BIT_WARNING = Ваша система использует 32-х битную версию Java. Minecraft может использовать максимум 1.5gb оперативной памяти.
+
+#Cab pane
+BALANCE = Баланс
+GROUP = Группа
+GROUP_NAME_1 = Пользователь
+GROUP_NAME_2 = Заблокированный
+GROUP_NAME_3 = Администратор
+GROUP_NAME_4 = Непроверенный
+GROUP_NAME_5 = Авторизованный
+GROUP_NAME_6 = VIP
+GROUP_NAME_7 = Premium
+ERROR_GROUP = Ваш аккаунт не оплачен. Вы можете оплатить, пройдя по 
+ERROR_GROUP_LINK = ссылке
+
+# Modpacks pane
+MODS_WAIT_WHILE_LOADING = Пожалуйста, подождите...
+
+# Modpack Update
+UPDATEMODPACK_ISAVALIBLE = Имеется новая версия модпака!
+UPDATEMODPACK_BACKUP = Восстановить старые конфиги?
+UPDATEMODPACK_TITLE = ModPack Update
+UPDATE_WICHUPDATE = Обновить?
+UPDATEMODPACK_DOWNGRADE = Установленая версия новее выбраной!
+UPDATEMODPACK_FROM_TO_VERSION = Текущая версия: %LOCALVER%\nПоследняя версия: %ONLINEVER%
+
+#Maps
+MAPS_BTN = Карты
+INSTALL_MAP = Установить
+DESCRIPTION = Описание
+TEXTURES_BTN = "Текстурпаки"
+
+# Play Offline
+PLAYOFFLINE_WANNA = Что-то пошло не так..\nЗапустить офлайн?
+
+# Password
+PASSWORD_PASSLABEL = Пароль: 
+PASSWORD_TITLE = Введите пароль
+
+# Profile
+OLDCREDS = Old Setup Login Data Found or Login Data Missing: please update.
+CHANGEDUUID = A change has been detected to the users hardware that prevents the launcher from accessing your credentials, please re-enter them.
+PROFILEADDER_USERNAME = Имя:
+PROFILEADDER_PASSWORD = Пароль:
+PROFILEADDER_NAME = Имя профиля:
+PROFILEADDER_SAVEPASSWORD = Запомнить пароль
+PROFILEADDER_TITLE = Создание профиля
+PROFILADDER_ERROR = Невозможно создать профиль.
+PROFILEADDER_UPDATE = Изменить!
+PROFILEDITOR_TITLE = Изменение профиля
+
+# Main
+MAIN_EXIT = Выход
+MAIN_APPLY = Применить
+MAIN_YES = Да
+MAIN_NO = Нет
+MAIN_ALL = Все
+MAIN_CANCEL = Отмена
+MAIN_SUBMIT = Подтвердить
+MAIN_REMOVE = Удалить
+MAIN_ADD = Добавить
+START_BUTTON = Вход
+
+# Main1
+PROFILE_ERROR = Введите имя!
+OPTIONS_SAVE = Сохранить
+OPTIONS_DEL = Удалить все!
+RUSSIAN = Язык
+
+# Main2
+ASSETS = Загрузка assets завершено.
+ASSETS2 = Ошибка загрузки игры.
+ASSETS3 = Загрузка файлов...
+
+# Main3
+GOOD0 = Авториация...
+GOOD1 = Обновление игры прошло успешно
+GOOD2 = Авторизация прошла успешно.
+
+# Main4
+BAD1 = Обновление игры отменено.
+BAD2 = Обновление игры прервано.
+BAD3 = Ошибка загрузки игры..
+BAD4 = Неверный логин или пароль.
+
+# Main5
+FC_UPDATE = Обновление!
+FC_UPDATE2 = Доступна новая версия
+FC_UPDATE_BT1 = Обновить!
+
+# Main6
+OPT_JAVA_ARGS = Оптимизация Minecraft(для мощных ПК)
+
+#Tray
+TRAY_WEBSITE = friendscraft2.ru
+
+#Console
+CONSOLE_SUPPORT = Поддержка
+CONSOLE_COPYCLIP = Копировать
+CONSOLE_CLIP_CONFIRM = Копировать лог в буфер обмена?
+
+# Force Kill MC
+KILL_MC = Закрыть Minecraft
+KILL_MC_TITLE = Закрыть Minecraft?
+KILL_MC_MESSAGE = Внимание! Используйте только в случае если игра зависла!
+KILL_MC_CONFIRM = Вы уверены что хотите закрыть Minecraft процесс?
+
+# Delete dialog
+OPTIONS_DEL_TITLE = Удалить все!
+OPTIONS_DEL_MESSAGE = Внимание! Используйте только в случае если что-то не работает или просто так!
+OPTIONS_DEL_CONFIRM = Вы уверены что хотите все удалить(кроме лаунчера)?
